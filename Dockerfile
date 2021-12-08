@@ -1,6 +1,6 @@
 FROM node:slim
 
-LABEL Mitch, mshumway1211@gmail.com
+LABEL Jennifer, JenniferWTam@gmail.com
 
 WORKDIR /app
 
