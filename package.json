@@ -13,10 +13,13 @@
     "coinbase": "^2.0.8",
     "coingecko-api": "^1.0.10",
     "cors": "^2.8.5",
-    "docker": "^1.0.0",
+    "dal": "^0.1.0",
+    "docker": "^0.2.14",
     "express": "^4.17.1",
     "lowdb": "^1.0.0",
     "mongodb": "^3.7.3",
-    "serve": "^12.0.1"
+    "node-dal": "^3.0.2",
+    "oracledb": "^5.1.0",
+    "serve": "^13.0.2"
   }
 }

@@ -25,4 +25,6 @@ function BTC(){
 			body= {(<a href="https://www.coinbase.com"><img src="bitcoin.png" className="img-fluid" alt="Responsive image"/></a>)}
 		/>
 		);  
+
+		
 	}
